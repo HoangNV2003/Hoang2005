@@ -11,3 +11,7 @@ When:
 -Bắt đầu dự án mới: Tạo tệp .gitignore từ đầu sẽ giúp bạn xác định ngay những tệp và thư mục nào không nên được theo dõi bởi Git từ giai đoạn ban đầu của dự án.
  Thêm các tệp không cần thiết sau khi dự án đã được bắt đầu: Khi bạn nhận ra có các tệp không cần thiết đã được thêm vào kho lưu trữ, bạn có thể cập nhật tệp
 .gitignore để loại bỏ chúng khỏi việc theo dõi của Git.
+-How :
+-Tạo hoặc chỉnh sửa tệp .gitignore trong thư mục gốc của dự án.
+-Thêm các quy tắc vào tệp .gitignore để chỉ định các tệp và thư mục không nên theo dõi bởi Git.
+-Lưu và đóng tệp .gitignore.
